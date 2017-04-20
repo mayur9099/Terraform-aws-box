@@ -1,14 +1,15 @@
 # Terraform-aws-box
 
-##Managing your Infrastructure
+## Managing your Infrastructure
 
-Deploy Your Infrastructure
+## Deploy Your Infrastructure
 
 Run the following command to deploy your infrastructure using Terraform.
 
-##terraform apply
-##Destroy Your Infrastructure
+* terraform apply
 
-##Run the following command to delete all resources created by Terraform.
+## Destroy Your Infrastructure
 
-# terraform destroy
+Run the following command to delete all resources created by Terraform.
+
+* terraform destroy

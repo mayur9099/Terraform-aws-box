@@ -1,4 +1,4 @@
-esource "aws_iam_role" "mi_worker_role" {
+resource "aws_iam_role" "mi_worker_role" {
   name = "AicQuboleClusterControl"
   assume_role_policy = <<EOF
 {
